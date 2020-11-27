@@ -11,4 +11,7 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[7](https://leetcode.com/problems/reverse-integer/)
 
+*[942](https://leetcode.com/problems/di-string-match/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
+
