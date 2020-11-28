@@ -13,6 +13,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[942](https://leetcode.com/problems/di-string-match/)
 
+*[706](https://leetcode.com/problems/design-hashmap/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
