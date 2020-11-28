@@ -19,6 +19,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[243](https://leetcode.com/problems/shortest-word-distance/)
 
+*[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
