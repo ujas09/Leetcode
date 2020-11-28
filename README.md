@@ -21,6 +21,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
+*[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
