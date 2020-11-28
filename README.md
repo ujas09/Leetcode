@@ -15,6 +15,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[706](https://leetcode.com/problems/design-hashmap/)
 
+*[724](https://leetcode.com/problems/find-pivot-index/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
