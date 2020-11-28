@@ -23,6 +23,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 
+*[720](https://leetcode.com/problems/longest-word-in-dictionary/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
