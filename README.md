@@ -15,3 +15,6 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
+**[846](https://leetcode.com/problems/hand-of-straights/)
+
+**[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
