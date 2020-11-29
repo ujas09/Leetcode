@@ -25,6 +25,10 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[720](https://leetcode.com/problems/longest-word-in-dictionary/)
 
+*[1086](https://leetcode.com/problems/high-five/)
+
+*[119](https://leetcode.com/problems/pascals-triangle-ii/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
