@@ -30,3 +30,5 @@ Solving the Leetcode problems and try to add as much comment possible.
 **[846](https://leetcode.com/problems/hand-of-straights/)
 
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
+
+***[780](https://leetcode.com/problems/reaching-points/)
