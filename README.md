@@ -56,3 +56,5 @@ Solving the Leetcode problems and try to add as much comment possible.
 **[1590](https://leetcode.com/problems/make-sum-divisible-by-p/)
 
 ***[780](https://leetcode.com/problems/reaching-points/)
+
+***[887](https://leetcode.com/problems/super-egg-drop/)
