@@ -35,4 +35,24 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 
+**[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
+**[688](https://leetcode.com/problems/knight-probability-in-chessboard/)
+
+**[253](https://leetcode.com/problems/meeting-rooms-ii/)
+
+**[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+**[189](https://leetcode.com/problems/rotate-array/)
+
+**[939](https://leetcode.com/problems/minimum-area-rectangle/)
+
+**[931](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+**[516](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+**[1234](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)
+
+**[1590](https://leetcode.com/problems/make-sum-divisible-by-p/)
+
 ***[780](https://leetcode.com/problems/reaching-points/)
