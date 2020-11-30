@@ -29,6 +29,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
 
+*[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
@@ -59,4 +61,4 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 ***[887](https://leetcode.com/problems/super-egg-drop/)
 
-***[829]()
+***[829](https://leetcode.com/problems/consecutive-numbers-sum/)
