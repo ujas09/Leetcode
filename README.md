@@ -59,6 +59,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[518](https://leetcode.com/problems/coin-change-2/)
 
+**[1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
+
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
 ***[780](https://leetcode.com/problems/reaching-points/)
