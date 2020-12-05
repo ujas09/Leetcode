@@ -74,3 +74,5 @@ Solving the Leetcode problems and try to add as much comment possible.
 ***[1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 
 ***[871](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+
+***[759](https://leetcode.com/problems/employee-free-time/)
