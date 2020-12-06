@@ -65,6 +65,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
+**[1265](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/)
+
 ***[780](https://leetcode.com/problems/reaching-points/)
 
 ***[887](https://leetcode.com/problems/super-egg-drop/)
