@@ -31,6 +31,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
 
+*[1672](https://leetcode.com/problems/richest-customer-wealth/)
+
 *[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
