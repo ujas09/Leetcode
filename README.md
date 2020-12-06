@@ -49,6 +49,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 
+**[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)
+
 **[189](https://leetcode.com/problems/rotate-array/)
 
 **[939](https://leetcode.com/problems/minimum-area-rectangle/)
