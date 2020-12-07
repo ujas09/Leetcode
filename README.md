@@ -17,6 +17,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[724](https://leetcode.com/problems/find-pivot-index/)
 
+*[1470](https://leetcode.com/problems/shuffle-the-array/)
+
 *[243](https://leetcode.com/problems/shortest-word-distance/)
 
 *[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
