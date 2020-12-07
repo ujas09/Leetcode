@@ -21,6 +21,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1512](https://leetcode.com/problems/number-of-good-pairs/)
 
+*[1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
 *[243](https://leetcode.com/problems/shortest-word-distance/)
 
 *[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
