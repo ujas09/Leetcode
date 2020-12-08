@@ -45,6 +45,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
 
+**[251](https://leetcode.com/problems/flatten-2d-vector/)
+
 **[846](https://leetcode.com/problems/hand-of-straights/)
 
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
