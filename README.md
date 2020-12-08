@@ -13,6 +13,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[942](https://leetcode.com/problems/di-string-match/)
 
+*[266](https://leetcode.com/problems/palindrome-permutation/)
+
 *[706](https://leetcode.com/problems/design-hashmap/)
 
 *[724](https://leetcode.com/problems/find-pivot-index/)
