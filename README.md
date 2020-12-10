@@ -53,6 +53,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 
+**[1029](https://leetcode.com/problems/two-city-scheduling/)
+
 **[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 **[688](https://leetcode.com/problems/knight-probability-in-chessboard/)
