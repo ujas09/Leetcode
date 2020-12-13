@@ -55,6 +55,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
 
+**[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+
 **[713](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 **[865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
