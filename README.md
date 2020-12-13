@@ -49,6 +49,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
 
+**[687](https://leetcode.com/problems/longest-univalue-path/)
+
 **[251](https://leetcode.com/problems/flatten-2d-vector/)
 
 **[316](https://leetcode.com/problems/remove-duplicate-letters/)
