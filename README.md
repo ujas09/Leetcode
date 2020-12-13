@@ -47,6 +47,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
 
+**[524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+
 **[251](https://leetcode.com/problems/flatten-2d-vector/)
 
 **[316](https://leetcode.com/problems/remove-duplicate-letters/)
