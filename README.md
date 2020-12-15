@@ -69,6 +69,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
 
+**[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 
 **[1029](https://leetcode.com/problems/two-city-scheduling/)
