@@ -35,6 +35,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[720](https://leetcode.com/problems/longest-word-in-dictionary/)
 
+*[674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+
 *[1086](https://leetcode.com/problems/high-five/)
 
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
