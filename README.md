@@ -41,6 +41,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
 
+*[1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)
+
 *[1672](https://leetcode.com/problems/richest-customer-wealth/)
 
 *[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
