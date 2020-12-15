@@ -75,6 +75,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[688](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
+**[131](https://leetcode.com/problems/palindrome-partitioning/)
+
 **[253](https://leetcode.com/problems/meeting-rooms-ii/)
 
 **[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
