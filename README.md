@@ -135,4 +135,6 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 ***[174](https://leetcode.com/problems/dungeon-game/)
 
+***[675](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+
 ***[1463](https://leetcode.com/problems/cherry-pickup-ii/)
