@@ -115,6 +115,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
+**[880](https://leetcode.com/problems/decoded-string-at-index/)
+
 **[1265](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/)
 
 ***[780](https://leetcode.com/problems/reaching-points/)
