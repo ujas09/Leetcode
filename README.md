@@ -79,6 +79,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 
+**[1602](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)
+
 **[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 
 **[1029](https://leetcode.com/problems/two-city-scheduling/)
