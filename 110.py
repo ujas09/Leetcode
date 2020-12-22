@@ -9,13 +9,18 @@ class Solution:
         def hightcal(root):
 
             if not root:
-                return 0
-            root.height = 1 + max(hightcal(root.left), hightcal(root.right))
+                return 0, True
 
-            return root.height
+            leftheight, leftbalance = hightcal(root.left)
+            if not leftbalance:
+                return 0, False
+            rightheight, rightbalance = hightcal(root.right)
+            if not rightbalance:
+                return 0, False
+
+            return max(leftheight, rightheight) + 1, abs(leftheight - rightheight) < 2
 
         if not root:
             return True
 
-        return abs(hightcal(root.left) - hightcal(root.right)) < 2 and self.isBalanced(root.left) and self.isBalanced(
-            root.right)
+        return hightcal(root)[1]
