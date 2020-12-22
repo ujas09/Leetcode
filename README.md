@@ -39,6 +39,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
+*[110](https://leetcode.com/problems/balanced-binary-tree/)
+
 *[1086](https://leetcode.com/problems/high-five/)
 
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
