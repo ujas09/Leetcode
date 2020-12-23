@@ -127,6 +127,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1265](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/)
 
+**[1696](https://leetcode.com/problems/jump-game-vi/)
+
 ***[780](https://leetcode.com/problems/reaching-points/)
 
 ***[887](https://leetcode.com/problems/super-egg-drop/)
