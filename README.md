@@ -151,4 +151,6 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 ***[1392](https://leetcode.com/problems/longest-happy-prefix/)
 
+***[1345](https://leetcode.com/problems/jump-game-iv/)
+
 ***[1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
