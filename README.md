@@ -73,6 +73,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
 
+**[348](https://leetcode.com/problems/design-tic-tac-toe/)
+
 **[1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 
 **[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)
