@@ -125,6 +125,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[880](https://leetcode.com/problems/decoded-string-at-index/)
 
+**[1690](https://leetcode.com/problems/stone-game-vii/)
+
 **[1265](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/)
 
 **[1696](https://leetcode.com/problems/jump-game-vi/)
