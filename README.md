@@ -131,6 +131,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1696](https://leetcode.com/problems/jump-game-vi/)
 
+**[498](https://leetcode.com/problems/diagonal-traverse/)
+
 ***[780](https://leetcode.com/problems/reaching-points/)
 
 ***[887](https://leetcode.com/problems/super-egg-drop/)
