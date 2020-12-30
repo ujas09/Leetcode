@@ -121,6 +121,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
 
+**[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
 **[880](https://leetcode.com/problems/decoded-string-at-index/)
