@@ -121,6 +121,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
 
+**[1049](https://leetcode.com/problems/last-stone-weight-ii/)
+
 **[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
 **[340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
