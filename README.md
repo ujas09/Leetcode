@@ -19,6 +19,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[724](https://leetcode.com/problems/find-pivot-index/)
 
+*[415](https://leetcode.com/problems/add-strings/)
+
 *[1470](https://leetcode.com/problems/shuffle-the-array/)
 
 *[1512](https://leetcode.com/problems/number-of-good-pairs/)
