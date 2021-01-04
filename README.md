@@ -23,6 +23,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1470](https://leetcode.com/problems/shuffle-the-array/)
 
+*[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)
+
 *[1512](https://leetcode.com/problems/number-of-good-pairs/)
 
 *[1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
@@ -68,6 +70,10 @@ Solving the Leetcode problems and try to add as much comment possible.
 **[846](https://leetcode.com/problems/hand-of-straights/)
 
 **[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
+
+**[1711](https://leetcode.com/problems/count-good-meals/)
+
+**[1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
 
 **[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
 
@@ -162,6 +168,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 ***[675](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
 
 ***[1463](https://leetcode.com/problems/cherry-pickup-ii/)
+
+***[1713](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/)
 
 ***[1392](https://leetcode.com/problems/longest-happy-prefix/)
 
