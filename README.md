@@ -73,6 +73,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1086](https://leetcode.com/problems/high-five/)
 
+*[1720](https://leetcode.com/problems/decode-xored-array/)
+
 *[119](https://leetcode.com/problems/pascals-triangle-ii/)
 
 *[1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)
