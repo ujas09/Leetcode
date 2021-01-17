@@ -33,6 +33,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1688](https://leetcode.com/problems/count-of-matches-in-tournament/)
 
+*[1119](https://leetcode.com/problems/remove-vowels-from-a-string/)
+
 *[243](https://leetcode.com/problems/shortest-word-distance/)
 
 *[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
