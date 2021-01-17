@@ -31,6 +31,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1528](https://leetcode.com/problems/shuffle-string/)
 
+*[1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
 *[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 *[1512](https://leetcode.com/problems/number-of-good-pairs/)
