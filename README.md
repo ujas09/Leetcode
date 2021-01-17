@@ -111,6 +111,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
 
+**[1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+
 **[713](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 **[436](https://leetcode.com/problems/find-right-interval/)
