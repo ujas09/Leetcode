@@ -181,6 +181,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
+**[1338](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+
 **[340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
