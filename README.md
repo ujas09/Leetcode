@@ -27,6 +27,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1486](https://leetcode.com/problems/xor-operation-in-an-array/)
 
+*[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+
 *[1678](https://leetcode.com/problems/goal-parser-interpretation/)
 
 *[1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
