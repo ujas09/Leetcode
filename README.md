@@ -29,6 +29,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
+*[1480](https://leetcode.com/problems/running-sum-of-1d-array/)
+
 *[1688](https://leetcode.com/problems/count-of-matches-in-tournament/)
 
 *[243](https://leetcode.com/problems/shortest-word-distance/)
