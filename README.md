@@ -95,6 +95,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[846](https://leetcode.com/problems/hand-of-straights/)
 
+**[658](https://leetcode.com/problems/find-k-closest-elements/)
+
 **[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
 
 **[1711](https://leetcode.com/problems/count-good-meals/)
