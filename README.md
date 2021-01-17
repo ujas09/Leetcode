@@ -187,6 +187,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
+**[1726]()
+
 **[880](https://leetcode.com/problems/decoded-string-at-index/)
 
 **[1690](https://leetcode.com/problems/stone-game-vii/)
