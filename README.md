@@ -85,6 +85,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1109](https://leetcode.com/problems/corporate-flight-bookings/)
 
+**[1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
 **[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
 
 **[524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
