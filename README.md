@@ -29,6 +29,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
+*[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+
 *[1528](https://leetcode.com/problems/shuffle-string/)
 
 *[1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
