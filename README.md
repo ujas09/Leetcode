@@ -227,4 +227,6 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 ***[1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
 
+***[1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/)
+
 ***[1406](https://leetcode.com/problems/stone-game-iii/)
