@@ -125,6 +125,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 
+**[1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/)
+
 **[688](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
 **[131](https://leetcode.com/problems/palindrome-partitioning/)
