@@ -65,6 +65,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 
+*[1725](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
+
 *[720](https://leetcode.com/problems/longest-word-in-dictionary/)
 
 *[674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
@@ -187,7 +189,7 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1197](https://leetcode.com/problems/minimum-knight-moves/)
 
-**[1726]()
+**[1726](https://leetcode.com/problems/tuple-with-same-product/)
 
 **[880](https://leetcode.com/problems/decoded-string-at-index/)
 
