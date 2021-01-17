@@ -111,6 +111,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 
+**[1529](https://leetcode.com/problems/bulb-switcher-iv/)
+
 **[1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/)
 
 **[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)
