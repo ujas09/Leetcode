@@ -29,6 +29,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 
+*[1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+
 *[1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 *[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)
