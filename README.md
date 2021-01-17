@@ -27,6 +27,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1678](https://leetcode.com/problems/goal-parser-interpretation/)
 
+*[1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
+
 *[1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 *[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)
