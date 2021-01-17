@@ -111,6 +111,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 **[1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 
+**[1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/)
+
 **[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)
 
 **[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
