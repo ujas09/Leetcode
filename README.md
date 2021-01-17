@@ -25,6 +25,8 @@ Solving the Leetcode problems and try to add as much comment possible.
 
 *[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
+*[1678](https://leetcode.com/problems/goal-parser-interpretation/)
+
 *[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 *[1512](https://leetcode.com/problems/number-of-good-pairs/)
